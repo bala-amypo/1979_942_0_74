@@ -1,4 +1,4 @@
-package com.example.practice.controller;
+package com.example.demo.controller;
 
 import java.util.List;
 import java.util.Optional;
@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.practice.entity.StudentEntity;
-import com.example.practice.service.StudentService;
+import com.example.demo.entity.StudentEntity;
+import com.example.demo.service.StudentService;
 
 
 
