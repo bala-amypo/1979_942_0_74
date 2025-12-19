@@ -6,9 +6,9 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.example.practice.entity.StudentEntity;
-import com.example.practice.repository.StudentRepository;
-import com.example.practice.service.StudentService;
+import com.example.demo.entity.StudentEntity;
+import com.example.demo.repository.StudentRepository;
+import com.example.demo.service.StudentService;
 
 @Service
 public class StudentServiceimplementation implements StudentService {
